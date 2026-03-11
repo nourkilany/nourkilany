@@ -1,24 +1,5 @@
-# nourkilany
+# Hey, I'm Nour Kilany
 
-Personal profile website built with Astro + TailwindCSS v4.
+Software Developer with 6+ years of experience building scalable APIs and enterprise systems.
 
-## Stack
-
-- **Astro** — static site generator
-- **TailwindCSS v4** — styling
-- **JetBrains Mono** — monospace font
-
-## Development
-
-```bash
-npm install
-npm run dev
-```
-
-## Build
-
-```bash
-npm run build
-```
-
-Static output is generated in `dist/`.
+PHP · C# · Laravel · .NET Core · MySQL · Redis · Docker
